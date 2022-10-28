@@ -1,0 +1,9 @@
+main DSTACK_USAGE:50 DSTACK_LEVEL:50 FILE:"microproject2'.c" LINE:46
+sprintf DSTACK_USAGE:16 DSTACK_LEVEL:66 FILE:"" LINE:1515
+_print DSTACK_USAGE:20 DSTACK_LEVEL:86 FILE:"" LINE:586
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:88 FILE:"C:\cvavreval\lib\string.lib" LINE:1722
+pushbutton DSTACK_USAGE:12 DSTACK_LEVEL:100 FILE:"microproject2'.c" LINE:36
+lcd_puts DSTACK_USAGE:3 DSTACK_LEVEL:103 FILE:"C:\cvavreval\lib\lcd.lib" LINE:214
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:104 FILE:"C:\cvavreval\lib\lcd.lib" LINE:182
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:106 FILE:"C:\cvavreval\lib\lcd.lib" LINE:162
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:107 FILE:"C:\cvavreval\lib\lcd.lib" LINE:81
